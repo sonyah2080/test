@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🎯 loplat X 사용자 가이드](README.md)
+* [🎯 loplat X User Guide](README.md)
 
 ## ⛳ 캠페인 <a href="#campaigns" id="campaigns"></a>
 
