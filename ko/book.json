@@ -1,0 +1,31 @@
+{
+    "author": "loplat",
+    "links": {
+        "sidebar": {
+            "사용자 가이드": "SUMMARY.md"
+        }
+    },
+    "plugins" :
+    [
+        "advanced-emoji",
+        "disqus",
+        "todo",
+        "emphasize",
+        "katex",
+        "mermaid-compat",
+        "chart",
+        "search-pro",
+        "-search"
+    ],
+    "pluginsConfig":
+    {
+        "sharing": {
+            "weibo": true,
+            "facebook": false,
+            "twitter": false
+        },
+        "disqus": {
+            "shortName": "xxxxxx_zh"
+        }
+    }
+}

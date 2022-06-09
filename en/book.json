@@ -1,0 +1,31 @@
+{
+    "author": "loplat",
+    "links": {
+        "sidebar": {
+            "User Guide" : "http://www.supersuraccoon-cocos2d.com"
+        }
+    },
+    "plugins" :
+    [
+        "advanced-emoji",
+        "disqus",
+        "todo",
+        "emphasize",
+        "katex",
+        "mermaid-compat",
+        "chart",
+        "search-pro",
+        "-search"
+    ],
+    "pluginsConfig":
+    {
+        "sharing": {
+            "weibo": true,
+            "facebook": false,
+            "twitter": false
+        },
+        "disqus": {
+            "shortName": "xxxxxx_zh"
+        }
+    }
+}

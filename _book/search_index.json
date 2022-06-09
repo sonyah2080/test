@@ -1,1 +1,81 @@
-{"index":{"version":"0.5.12","fields":[{"name":"title","boost":10},{"name":"keywords","boost":15},{"name":"body","boost":1}],"ref":"url","documentStore":{"store":{"./":["1","page","test"]},"length":1},"tokenStore":{"root":{"1":{"docs":{"./":{"ref":"./","tf":5.333333333333333}}},"docs":{},"p":{"docs":{},"a":{"docs":{},"g":{"docs":{},"e":{"docs":{"./":{"ref":"./","tf":5.333333333333333}}}}}},"t":{"docs":{},"e":{"docs":{},"s":{"docs":{},"t":{"docs":{"./":{"ref":"./","tf":0.3333333333333333}}}}}}},"length":3},"corpusTokens":["1","page","test"],"pipeline":["stopWordFilter","stemmer"]},"store":{"./":{"url":"./","title":"Page 1","summary":"dfsdfssdfsdfsdfsd","keywords":"","body":"Page 1\ntesting\n\n"}}}
+{
+  "index": {
+    "version": "0.5.12",
+    "fields": [{
+      "name": "title",
+      "boost": 10
+    }, {
+      "name": "keywords",
+      "boost": 15
+    }, {
+      "name": "body",
+      "boost": 1
+    }],
+    "ref": "url",
+    "documentStore": {
+      "store": {
+        "./": ["1", "page", "test"]
+      },
+      "length": 1
+    },
+    "tokenStore": {
+      "root": {
+        "1": {
+          "docs": {
+            "./": {
+              "ref": "./",
+              "tf": 5.333333333333333
+            }
+          }
+        },
+        "docs": {},
+        "p": {
+          "docs": {},
+          "a": {
+            "docs": {},
+            "g": {
+              "docs": {},
+              "e": {
+                "docs": {
+                  "./": {
+                    "ref": "./",
+                    "tf": 5.333333333333333
+                  }
+                }
+              }
+            }
+          }
+        },
+        "t": {
+          "docs": {},
+          "e": {
+            "docs": {},
+            "s": {
+              "docs": {},
+              "t": {
+                "docs": {
+                  "./": {
+                    "ref": "./",
+                    "tf": 0.3333333333333333
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "length": 3
+    },
+    "corpusTokens": ["1", "page", "test"],
+    "pipeline": ["stopWordFilter", "stemmer"]
+  },
+  "store": {
+    "./": {
+      "url": "./",
+      "title": "Page 1",
+      "summary": "dfsdfssdfsdfsdfsd",
+      "keywords": "",
+      "body": "Page 1\ntesting\n\n"
+    }
+  }
+}
