@@ -2,7 +2,7 @@
     "author": "loplat",
     "links": {
         "sidebar": {
-            "User Guide" : "http://www.supersuraccoon-cocos2d.com"
+            "User Guide" : "SUMMARY.md"
         }
     },
     "plugins" :
