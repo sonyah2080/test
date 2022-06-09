@@ -1,4 +1,4 @@
 # 언어
 
-* [English](en/README.md)
-* [한국어](ko/README.md)
+* [English](en/)
+* [한국어](ko/)
