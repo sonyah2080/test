@@ -1,10 +1,4 @@
 {
-    "author": "loplat",
-    "links": {
-        "sidebar": {
-            "사용자 가이드": "SUMMARY.md"
-        }
-    },
     "plugins" :
     [
         "advanced-emoji",
@@ -14,18 +8,20 @@
         "katex",
         "mermaid-compat",
         "chart",
-        "search-pro",
-        "-search"
+        "search-pro"
     ],
     "pluginsConfig":
     {
         "sharing": {
             "weibo": true,
-            "facebook": false,
-            "twitter": false
+            "facebook": true,
+            "twitter": true
         },
         "disqus": {
-            "shortName": "xxxxxx_zh"
+            "shortName": "xxxxxx"
+        },
+        "search-pro": {
+            "cutWordLib": "nodejieba"
         }
     }
 }
