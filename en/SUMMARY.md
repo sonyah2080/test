@@ -24,7 +24,7 @@
 * [세그먼트 생성](segment/segment-create.md)
 * [세그먼트 업로드](segment/upload.md)
 
-## 🌏 지오펜스 <a href="#geofence" id="geofence"></a>
+## 🌏 geofence <a href="#geofence" id="geofence"></a>
 
 * [지오펜스](geofence/geofence-start.md)
 * [지오펜스 단일](geofence/single/README.md)
