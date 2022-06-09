@@ -4,10 +4,10 @@
 
 ## ⛳ 캠페인 <a href="#campaigns" id="campaigns"></a>
 
-* [캠페인 시작](campaigns/start.md)
-* [캠페인 목록](campaigns/list/README.md)
+* [campaigns Start](campaigns/start.md)
+* [campaigns list](campaigns/list/README.md)
   * [캠페인 관리 모바일](campaigns/list/mobile.md)
-* [캠페인 생성](campaigns/create/README.md)
+* [Create campaigns](campaigns/create/README.md)
   * [캠페인 기본 설정](campaigns/create/default-setting.md)
   * [캠페인 위치 설정](campaigns/create/location-setting.md)
   * [캠페인 시간 및 실행 조건 설정](campaigns/create/time-setting.md)
